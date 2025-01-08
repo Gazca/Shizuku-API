@@ -256,4 +256,4 @@ We also provides [HiddenApiRefinePlugin](https://github.com/RikkaApps/HiddenApiR
 - Call `Sui#init()`
 - It's better to use check Sui with `Sui#isSui` before using Shizuku only methods in `ShizukuProvider`
 
-</details>
+</details> 
